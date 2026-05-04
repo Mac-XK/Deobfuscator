@@ -14,9 +14,9 @@
 - **加密字符串定位** — 通过熵值分析找出 `__DATA` 段中的加密字符串区域
 - **函数包装器还原** — 解析 `MacXKFunctionWrapper` 调用链，还原实际调用目标
 
-<img width="816" height="849" alt="image" src="https://github.com/user-attachments/assets/9a45b2cc-b310-4f0b-bb11-5e106905c35a" />
-<img width="520" height="365" alt="image" src="https://github.com/user-attachments/assets/6b157d26-2e1a-498e-8864-ec539afef6d8" />
-<img width="816" height="849" alt="image" src="https://github.com/user-attachments/assets/0ce4e8d9-8bbc-4a3f-90ef-29e8cc11a132" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/9a45b2cc-b310-4f0b-bb11-5e106905c35a" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/6b157d26-2e1a-498e-8864-ec539afef6d8" />
+<img width="400" height="300" alt="image" src="https://github.com/user-attachments/assets/0ce4e8d9-8bbc-4a3f-90ef-29e8cc11a132" />
 
 ## 文件说明
 
